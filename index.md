@@ -10,4 +10,4 @@ Este repositório é uma iniciativa para combater a desinformação e a venda de
 
 ## Guias Disponíveis
 
-- [Guia Definitivo e Gratuito: MCP (Model Context Protocol) da Anthropic](./guia_mcp.md)
+- [Guia Definitivo e Gratuito: MCP (Model Context Protocol) da Anthropic](./guia_mcp.html)
