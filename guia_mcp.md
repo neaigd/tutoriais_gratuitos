@@ -1,3 +1,9 @@
+---
+layout: default
+title: Guia Definitivo e Gratuito: MCP (Model Context Protocol) da Anthropic
+nav_order: 2
+---
+
 # Guia Definitivo e Gratuito: MCP (Model Context Protocol) da Anthropic
 
 Compreendo perfeitamente o contexto! Você está se referindo ao **MCP (Model Context Protocol)**, o padrão aberto desenvolvido pela Anthropic para integrar modelos de IA de forma interoperável. **Não há necessidade de comprar manuais** — toda a documentação oficial é **gratuita e acessível publicamente**. Seguem as fontes diretas para download e estudo:
