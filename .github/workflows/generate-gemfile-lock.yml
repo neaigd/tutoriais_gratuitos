@@ -1,0 +1,28 @@
+name: Generate Gemfile.lock
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - Gemfile
+
+jobs:
+  generate-lockfile:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Setup Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: '2.6.1'
+          bundler-cache: true # This will run bundle install and generate/update Gemfile.lock
+
+      - name: Commit Gemfile.lock
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: Auto-generate Gemfile.lock"
+          file_pattern: Gemfile.lock
+          branch: main
