@@ -2,21 +2,21 @@
     "doc": "Início",
     "title": "Tutoriais Gratuitos",
     "content": "Este repositório é uma iniciativa para combater a desinformação e a venda de conteúdo gratuito. Nossa missão é criar e centralizar guias de alta qualidade sobre diversos tópicos, tornando o conhecimento público acessível a todos. ",
-    "url": "/#tutoriais-gratuitos",
+    "url": "/tutoriais_gratuitos/#tutoriais-gratuitos",
     
     "relUrl": "/#tutoriais-gratuitos"
   },"1": {
     "doc": "Início",
     "title": "Guias Disponíveis",
     "content": ". | Guia Definitivo e Gratuito: MCP (Model Context Protocol) da Anthropic | . ",
-    "url": "/#guias-dispon%C3%ADveis",
+    "url": "/tutoriais_gratuitos/#guias-dispon%C3%ADveis",
     
     "relUrl": "/#guias-disponíveis"
   },"2": {
     "doc": "Início",
     "title": "Início",
     "content": " ",
-    "url": "/",
+    "url": "/tutoriais_gratuitos/",
     
     "relUrl": "/"
   }
