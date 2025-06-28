@@ -1,7 +1,9 @@
 # Tutoriais Gratuitos
 
-Este repositório é uma iniciativa para combater a desinformação e a venda de conteúdo gratuito. Nossa missão é criar e centralizar guias de alta qualidade sobre diversos tópicos, tornando o conhecimento público acessível a todos.
+Este é o repositório do projeto [Tutoriais Gratuitos](https://neaigd.github.io/tutoriais_gratuitos).
 
-## Guias Disponíveis
+Navegue pelo nosso site para ver os guias completos.
 
-- [Guia Definitivo e Gratuito: MCP (Model Context Protocol) da Anthropic](./guia_mcp.md)
+## Como Contribuir
+
+Você pode contribuir sugerindo novos guias através das [Issues](https://github.com/neaigd/tutoriais_gratuitos/issues) ou participando das discussões na aba [Discussions](https://github.com/neaigd/tutoriais_gratuitos/discussions).

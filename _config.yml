@@ -1,0 +1,10 @@
+title: Tutoriais Gratuitos
+description: Uma iniciativa para combater a desinformação e a venda de conteúdo gratuito.
+
+theme: just-the-docs
+
+url: https://neaigd.github.io/tutoriais_gratuitos
+
+aux_links:
+  "Tutoriais Gratuitos no GitHub":
+    - "https://github.com/neaigd/tutoriais_gratuitos"
