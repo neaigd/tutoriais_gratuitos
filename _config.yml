@@ -4,6 +4,7 @@ description: Uma iniciativa para combater a desinformação e a venda de conteú
 theme: just-the-docs
 
 url: https://neaigd.github.io/tutoriais_gratuitos
+baseurl: /tutoriais_gratuitos
 
 aux_links:
   "Tutoriais Gratuitos no GitHub":
